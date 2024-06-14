@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-13T20:27:53 IST" name="TutorialsNinja" finished-at="2024-06-13T20:29:24 IST" duration-ms="90876">
+    <groups>
+    </groups>
+    <test started-at="2024-06-13T20:27:53 IST" name="Test" finished-at="2024-06-13T20:29:24 IST" duration-ms="90876">
+      <class name="Test_Cases.Search">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test_Cases.Search@7d0b7e3c]" started-at="2024-06-13T20:29:12 IST" name="setup" finished-at="2024-06-13T20:29:15 IST" duration-ms="3141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="serachForValidProduct()[pri:1, instance:Test_Cases.Search@7d0b7e3c]" started-at="2024-06-13T20:29:15 IST" name="serachForValidProduct" finished-at="2024-06-13T20:29:16 IST" duration-ms="655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serachForValidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Cases.Search@7d0b7e3c]" started-at="2024-06-13T20:29:16 IST" name="tearDown" finished-at="2024-06-13T20:29:16 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test_Cases.Search@7d0b7e3c]" started-at="2024-06-13T20:29:16 IST" name="setup" finished-at="2024-06-13T20:29:19 IST" duration-ms="2949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="serchForInvalidProduct()[pri:2, instance:Test_Cases.Search@7d0b7e3c]" started-at="2024-06-13T20:29:19 IST" name="serchForInvalidProduct" finished-at="2024-06-13T20:29:20 IST" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serchForInvalidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Cases.Search@7d0b7e3c]" started-at="2024-06-13T20:29:20 IST" name="tearDown" finished-at="2024-06-13T20:29:20 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test_Cases.Search@7d0b7e3c]" started-at="2024-06-13T20:29:20 IST" name="setup" finished-at="2024-06-13T20:29:23 IST" duration-ms="3237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithoutProduct()[pri:3, instance:Test_Cases.Search@7d0b7e3c]" started-at="2024-06-13T20:29:23 IST" name="searchWithoutProduct" finished-at="2024-06-13T20:29:24 IST" duration-ms="560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithoutProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Cases.Search@7d0b7e3c]" started-at="2024-06-13T20:29:24 IST" name="tearDown" finished-at="2024-06-13T20:29:24 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test_Cases.Search -->
+      <class name="Test_Cases.Register">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test_Cases.Register@6e9175d8]" started-at="2024-06-13T20:28:55 IST" name="setup" finished-at="2024-06-13T20:29:00 IST" duration-ms="4898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithAllCredentials()[pri:0, instance:Test_Cases.Register@6e9175d8]" started-at="2024-06-13T20:29:00 IST" name="registerWithAllCredentials" finished-at="2024-06-13T20:29:02 IST" duration-ms="1473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithAllCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Cases.Register@6e9175d8]" started-at="2024-06-13T20:29:02 IST" name="tearDown" finished-at="2024-06-13T20:29:02 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test_Cases.Register@6e9175d8]" started-at="2024-06-13T20:29:02 IST" name="setup" finished-at="2024-06-13T20:29:06 IST" duration-ms="3798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithMandatoryCredentials()[pri:2, instance:Test_Cases.Register@6e9175d8]" started-at="2024-06-13T20:29:06 IST" name="registerWithMandatoryCredentials" finished-at="2024-06-13T20:29:07 IST" duration-ms="1474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithMandatoryCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Cases.Register@6e9175d8]" started-at="2024-06-13T20:29:07 IST" name="tearDown" finished-at="2024-06-13T20:29:08 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test_Cases.Register@6e9175d8]" started-at="2024-06-13T20:29:08 IST" name="setup" finished-at="2024-06-13T20:29:11 IST" duration-ms="3933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithoutCredentials()[pri:3, instance:Test_Cases.Register@6e9175d8]" started-at="2024-06-13T20:29:11 IST" name="registerWithoutCredentials" finished-at="2024-06-13T20:29:12 IST" duration-ms="636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithoutCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Cases.Register@6e9175d8]" started-at="2024-06-13T20:29:12 IST" name="tearDown" finished-at="2024-06-13T20:29:12 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test_Cases.Register -->
+      <class name="Test_Cases.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:27:53 IST" name="setup" finished-at="2024-06-13T20:28:34 IST" duration-ms="41266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:1, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:34 IST" name="login" finished-at="2024-06-13T20:28:35 IST" duration-ms="957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:35 IST" name="tearDown" finished-at="2024-06-13T20:28:36 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:36 IST" name="setup" finished-at="2024-06-13T20:28:39 IST" duration-ms="3417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithInvalidCredentials()[pri:2, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:39 IST" name="loginWithInvalidCredentials" finished-at="2024-06-13T20:28:40 IST" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:40 IST" name="tearDown" finished-at="2024-06-13T20:28:40 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:40 IST" name="setup" finished-at="2024-06-13T20:28:43 IST" duration-ms="3279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidEmailAndInvalidPasswordCredentials()[pri:3, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:43 IST" name="loginWithValidEmailAndInvalidPasswordCredentials" finished-at="2024-06-13T20:28:44 IST" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidEmailAndInvalidPasswordCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:44 IST" name="tearDown" finished-at="2024-06-13T20:28:44 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:44 IST" name="setup" finished-at="2024-06-13T20:28:48 IST" duration-ms="4034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithInvalidEmailAndValidPasswordCredentials()[pri:4, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:48 IST" name="loginWithInvalidEmailAndValidPasswordCredentials" finished-at="2024-06-13T20:28:49 IST" duration-ms="673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidEmailAndValidPasswordCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:49 IST" name="tearDown" finished-at="2024-06-13T20:28:49 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:49 IST" name="setup" finished-at="2024-06-13T20:28:54 IST" duration-ms="5301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithoutAnyCredentials()[pri:5, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:54 IST" name="loginWithoutAnyCredentials" finished-at="2024-06-13T20:28:55 IST" duration-ms="756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithoutAnyCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Cases.Login@2e6a8155]" started-at="2024-06-13T20:28:55 IST" name="tearDown" finished-at="2024-06-13T20:28:55 IST" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test_Cases.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- TutorialsNinja -->
+</testng-results>
